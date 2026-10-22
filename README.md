@@ -1,4 +1,4 @@
-# D-LOCKS conference generating name tags in an automated way
+# Generating name tags in an automated way
 
 Python script I wrote in the context of organizing a scientific conference (D-LOCKS, 2023): it turns the registration form export into everything the organisers need on paper.
 
